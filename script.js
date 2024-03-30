@@ -70,8 +70,7 @@ btn.addEventListener("click",(p)=>{
             break;
     }
     
-    res.innerHTML = (amount.value)*s2;
-    console.log(Math.floor((amount.value)*s2));
+    res.innerHTML = Math.floor(parseFloat(amount.value)*s2);
 })
 
 // document.getElementById("con").addEventListener('click',(d)=>{
