@@ -39,8 +39,8 @@ nav a:hover{
   transform: scale(1.5);
 }
 .logo{
-  width: 90px;
-  height: 100%;
+  width: 70px;
+  height: 70px;
   border-radius: 50%;
   overflow: hidden;
   background-image: url(IMG_20231114_093353-01.jpeg.jpg);
